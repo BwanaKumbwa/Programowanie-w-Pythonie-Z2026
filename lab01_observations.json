@@ -1,0 +1,218 @@
+[
+  {
+    "observation_id": 1,
+    "participant_id": "P001",
+    "group": "control",
+    "stimulus": "word_01",
+    "response": "yes",
+    "response_time_ms": 842,
+    "correct": "true"
+  },
+  {
+    "observation_id": 2,
+    "participant_id": "P001",
+    "group": "control",
+    "stimulus": "word_02",
+    "response": "no",
+    "response_time_ms": 1105,
+    "correct": "false"
+  },
+  {
+    "observation_id": 3,
+    "participant_id": "P001",
+    "group": "control",
+    "stimulus": "word_03",
+    "response": "yes",
+    "response_time_ms": 910,
+    "correct": "true"
+  },
+  {
+    "observation_id": 4,
+    "participant_id": "P002",
+    "group": "experimental",
+    "stimulus": "word_01",
+    "response": "yes",
+    "response_time_ms": 756,
+    "correct": "true"
+  },
+  {
+    "observation_id": 5,
+    "participant_id": "P002",
+    "group": "experimental",
+    "stimulus": "word_02",
+    "response": "yes",
+    "response_time_ms": 689,
+    "correct": "true"
+  },
+  {
+    "observation_id": 6,
+    "participant_id": "P002",
+    "group": "experimental",
+    "stimulus": "word_03",
+    "response": "no",
+    "response_time_ms": 1210,
+    "correct": "false"
+  },
+  {
+    "observation_id": 7,
+    "participant_id": "P003",
+    "group": "control",
+    "stimulus": "word_01",
+    "response": "no",
+    "response_time_ms": 1340,
+    "correct": "false"
+  },
+  {
+    "observation_id": 8,
+    "participant_id": "P003",
+    "group": "control",
+    "stimulus": "word_02",
+    "response": "yes",
+    "response_time_ms": 990,
+    "correct": "true"
+  },
+  {
+    "observation_id": 9,
+    "participant_id": "P003",
+    "group": "control",
+    "stimulus": "word_03",
+    "response": "yes",
+    "response_time_ms": 1030,
+    "correct": "true"
+  },
+  {
+    "observation_id": 10,
+    "participant_id": "P004",
+    "group": "experimental",
+    "stimulus": "word_01",
+    "response": "yes",
+    "response_time_ms": 620,
+    "correct": "true"
+  },
+  {
+    "observation_id": 11,
+    "participant_id": "P004",
+    "group": "experimental",
+    "stimulus": "word_02",
+    "response": "yes",
+    "response_time_ms": 715,
+    "correct": "true"
+  },
+  {
+    "observation_id": 12,
+    "participant_id": "P004",
+    "group": "experimental",
+    "stimulus": "word_03",
+    "response": "yes",
+    "response_time_ms": 805,
+    "correct": "true"
+  },
+  {
+    "observation_id": 13,
+    "participant_id": "P005",
+    "group": "control",
+    "stimulus": "word_01",
+    "response": "yes",
+    "response_time_ms": 1170,
+    "correct": "true"
+  },
+  {
+    "observation_id": 14,
+    "participant_id": "P005",
+    "group": "control",
+    "stimulus": "word_02",
+    "response": "no",
+    "response_time_ms": 1440,
+    "correct": "false"
+  },
+  {
+    "observation_id": 15,
+    "participant_id": "P005",
+    "group": "control",
+    "stimulus": "word_03",
+    "response": "yes",
+    "response_time_ms": 980,
+    "correct": "true"
+  },
+  {
+    "observation_id": 16,
+    "participant_id": "P006",
+    "group": "experimental",
+    "stimulus": "word_01",
+    "response": "yes",
+    "response_time_ms": 840,
+    "correct": "true"
+  },
+  {
+    "observation_id": 17,
+    "participant_id": "P006",
+    "group": "experimental",
+    "stimulus": "word_02",
+    "response": "no",
+    "response_time_ms": 1080,
+    "correct": "false"
+  },
+  {
+    "observation_id": 18,
+    "participant_id": "P006",
+    "group": "experimental",
+    "stimulus": "word_03",
+    "response": "yes",
+    "response_time_ms": 770,
+    "correct": "true"
+  },
+  {
+    "observation_id": 19,
+    "participant_id": "P007",
+    "group": "control",
+    "stimulus": "word_01",
+    "response": "yes",
+    "response_time_ms": 890,
+    "correct": "true"
+  },
+  {
+    "observation_id": 20,
+    "participant_id": "P007",
+    "group": "control",
+    "stimulus": "word_02",
+    "response": "yes",
+    "response_time_ms": 940,
+    "correct": "true"
+  },
+  {
+    "observation_id": 21,
+    "participant_id": "P007",
+    "group": "control",
+    "stimulus": "word_03",
+    "response": "no",
+    "response_time_ms": 1260,
+    "correct": "false"
+  },
+  {
+    "observation_id": 22,
+    "participant_id": "P008",
+    "group": "experimental",
+    "stimulus": "word_01",
+    "response": "yes",
+    "response_time_ms": 680,
+    "correct": "true"
+  },
+  {
+    "observation_id": 23,
+    "participant_id": "P008",
+    "group": "experimental",
+    "stimulus": "word_02",
+    "response": "yes",
+    "response_time_ms": 735,
+    "correct": "true"
+  },
+  {
+    "observation_id": 24,
+    "participant_id": "P008",
+    "group": "experimental",
+    "stimulus": "word_03",
+    "response": "yes",
+    "response_time_ms": 790,
+    "correct": "true"
+  }
+]
