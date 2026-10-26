@@ -1,0 +1,5 @@
+observation_id,participant_id,group,stimulus,response,response_time_ms,correct
+1,P001,control,word_01,yes,842,true
+2,P001,control,word_02,no,1105,false
+3,P001,control,word_03,yes,910,true
+25,P009,control,word_01,yes,not-a-number,true

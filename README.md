@@ -1,0 +1,1 @@
+Repozytorium zajęć z przedmiotu 'Programowanie w Pythonie' (semestr zimowy 2026/2027) dla kierunku Kognitywistyka i sztuczna inteligencja na Uniwersytecie Vizja.
